@@ -1,0 +1,23 @@
+{
+  "name": "ignore-add",
+  "version": "1.0.0",
+  "description": "create .gitignore by cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlz812/ignore-add.git"
+  },
+  "keywords": [
+    "git",
+    "ignore"
+  ],
+  "author": "carlz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlz812/ignore-add/issues"
+  },
+  "homepage": "https://github.com/carlz812/ignore-add#readme"
+}
