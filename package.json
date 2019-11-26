@@ -1,6 +1,6 @@
 {
   "name": "ignore-add",
-  "version": "1.1.0-beta.0",
+  "version": "1.1.0",
   "description": "create .gitignore by cli",
   "bin": "./cli/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "ignore"
   ],
   "author": "carlz",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/carlz812/ignore-add/issues"
   },

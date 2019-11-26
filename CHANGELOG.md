@@ -1,8 +1,11 @@
 # change log
 
-## dev-1.1.0
+## v1.1.0
 
-TODO:
-* md 增加 contributing
-* node version badge
-* package publish list
+* update readme
+* update package.json
+
+## v1.0.0
+
+* complete `add` command
+* complete `update` command
