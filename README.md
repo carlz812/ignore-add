@@ -1,19 +1,18 @@
 ignore-add -- .gitignore creator
 ===
-
+[![NPM version][npm-image]][npm-url]
 
 `ignore-add` can help you add .gitignore file from [gitignore](https://github.com/github/gitignore) into your project
-
 
 ## Install
 
 ```
-$ npm install -g nrm
+$ npm install -g ignore-add
 ```
 
 ## Example
 ```
-$ nrm add
+$ ignore-add add
 
 * ? What kind of boilerplate do you want? (Use arrow keys or type to search)
   ❯ Actionscript.gitignore
@@ -36,7 +35,7 @@ $ nrm add
 
 if you want to update local cached gitignore repo, you can: 
 ```
-$ nrm update
+$ ignore-add update
 ```
 ## Usage
 
@@ -58,13 +57,11 @@ Commands:
 
 see TODO.md
 
-## Contributors 
-
-* [carlz](https://github.com/carlz812)
+## Contributing
+If you're interested in this project, please get in touch!
 
 ## LICENSE
 MIT
 
-
-[npm-image]: https://img.shields.io/npm/v/nrm.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/nrm
+[npm-image]: https://img.shields.io/npm/v/ignore-add.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/ignore-add
