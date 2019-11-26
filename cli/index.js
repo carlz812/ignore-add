@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-
-const fs = require('fs');
 const program = require('commander');
 const PKG = require('../package.json');
 const PostInstall = require('./postInstall.js');
