@@ -1,6 +1,6 @@
 {
   "name": "ignore-add",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "description": "create .gitignore by cli",
   "bin": "./cli/index.js",
   "scripts": {

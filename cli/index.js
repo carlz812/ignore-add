@@ -27,7 +27,6 @@ program
 
 program
     .command('help', { isDefault: true })
-    .description('Print this help \n if you want to clear the NRM configuration when uninstall you can execute "npm uninstall nrm -g -C or npm uninstall nrm -g --clean"')
     .action(function () {
         program.outputHelp();
     });
