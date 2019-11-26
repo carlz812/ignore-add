@@ -1,10 +1,10 @@
 {
   "name": "ignore-add",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0-beta.1",
   "description": "create .gitignore by cli",
   "bin": "./cli/index.js",
   "scripts": {
-    "postInstall": "ignore-add postInstall"
+    "postinstall": "ignore-add postInstall"
   },
   "repository": {
     "type": "git",
